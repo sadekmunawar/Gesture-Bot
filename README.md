@@ -1,5 +1,5 @@
 # Gesture-Bot
-This project uses two ATmega328P microcontrollers. One controls the actuation of the robot, and the other detects gesttures and transmits commands.
+This project uses two ATmega328P microcontrollers. One controls the actuation of the robot, and the other detects gestures and transmits commands.
 
 ## Hardware
 * ATmega328P (2x)
